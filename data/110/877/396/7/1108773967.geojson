@@ -9,7 +9,7 @@
     "geom:bbox":"-85.03131,34.98757,-84.29236,35.752896",
     "geom:latitude":35.221919,
     "geom:longitude":-84.67917,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2254278395.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 22",
     "uscensus:sldlst":"022",
     "uscensus:statefp":"47",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488204,
     "wof:geomhash":"4baa5c4e63774bdac2ec9c11753ebd02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
     "wof:id":1108773967,
     "wof:lastmodified":1481488204,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688701,
     "wof:repo":"whosonfirst-data-constituency-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-90.07198,35.00639,-89.8661,35.115539",
     "geom:latitude":35.05287,
     "geom:longitude":-89.963601,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":51982318.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 87",
     "uscensus:sldlst":"087",
     "uscensus:statefp":"47",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488225,
     "wof:geomhash":"60ccc0db59e4fd8cbcefcc46f50c2e2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
     "wof:id":1108774113,
     "wof:lastmodified":1481488225,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688701,
     "wof:repo":"whosonfirst-data-constituency-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-87.01608,35.91529,-86.73641,36.05272",
     "geom:latitude":35.991016,
     "geom:longitude":-86.870775,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":229184467.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 61",
     "uscensus:sldlst":"061",
     "uscensus:statefp":"47",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488216,
     "wof:geomhash":"e3d032ec18f3653d95b96b0713755124",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
     "wof:id":1108774055,
     "wof:lastmodified":1481488216,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688701,
     "wof:repo":"whosonfirst-data-constituency-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],

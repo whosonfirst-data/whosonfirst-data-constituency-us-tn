@@ -9,7 +9,7 @@
     "geom:bbox":"-85.23227,35.00404,-84.94233,35.459232",
     "geom:latitude":35.24114,
     "geom:longitude":-85.071516,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":476807832.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 29",
     "uscensus:sldlst":"029",
     "uscensus:statefp":"47",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488206,
     "wof:geomhash":"bb881ccf1f85e49aa202be5cd91d38dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
     "wof:id":1108773983,
     "wof:lastmodified":1481488206,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688701,
     "wof:repo":"whosonfirst-data-constituency-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
